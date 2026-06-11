@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 import base64   #this library use to convert image into another format
 
+
 # importing our created modules (cleans text,cleans text,gives rating,finds category,checks fake,store & fetch data)  
 from preprocess import preprocess
 from utils import (
